@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisconnectLogger", "DisconnectLogger\DisconnectLogger.csproj", "{45DC76CE-E656-48C2-9EB2-44860BF854AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DC76CE-E656-48C2-9EB2-44860BF854AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DC76CE-E656-48C2-9EB2-44860BF854AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DC76CE-E656-48C2-9EB2-44860BF854AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DC76CE-E656-48C2-9EB2-44860BF854AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
